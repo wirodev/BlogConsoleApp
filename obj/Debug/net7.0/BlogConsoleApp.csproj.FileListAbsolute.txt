@@ -1,0 +1,14 @@
+/Users/wiro/Desktop/C#/BlogConsoleApp/bin/Debug/net7.0/BlogConsoleApp
+/Users/wiro/Desktop/C#/BlogConsoleApp/bin/Debug/net7.0/BlogConsoleApp.deps.json
+/Users/wiro/Desktop/C#/BlogConsoleApp/bin/Debug/net7.0/BlogConsoleApp.runtimeconfig.json
+/Users/wiro/Desktop/C#/BlogConsoleApp/bin/Debug/net7.0/BlogConsoleApp.dll
+/Users/wiro/Desktop/C#/BlogConsoleApp/bin/Debug/net7.0/BlogConsoleApp.pdb
+/Users/wiro/Desktop/C#/BlogConsoleApp/obj/Debug/net7.0/BlogConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wiro/Desktop/C#/BlogConsoleApp/obj/Debug/net7.0/BlogConsoleApp.AssemblyInfoInputs.cache
+/Users/wiro/Desktop/C#/BlogConsoleApp/obj/Debug/net7.0/BlogConsoleApp.AssemblyInfo.cs
+/Users/wiro/Desktop/C#/BlogConsoleApp/obj/Debug/net7.0/BlogConsoleApp.csproj.CoreCompileInputs.cache
+/Users/wiro/Desktop/C#/BlogConsoleApp/obj/Debug/net7.0/BlogConsoleApp.dll
+/Users/wiro/Desktop/C#/BlogConsoleApp/obj/Debug/net7.0/refint/BlogConsoleApp.dll
+/Users/wiro/Desktop/C#/BlogConsoleApp/obj/Debug/net7.0/BlogConsoleApp.pdb
+/Users/wiro/Desktop/C#/BlogConsoleApp/obj/Debug/net7.0/BlogConsoleApp.genruntimeconfig.cache
+/Users/wiro/Desktop/C#/BlogConsoleApp/obj/Debug/net7.0/ref/BlogConsoleApp.dll
